@@ -1,16 +1,12 @@
-# exerciciotela
+Tela de Login 
 
-A new Flutter project.
+![image](https://github.com/FelipeValeriano21/Autorating-Mobile/assets/101677047/5d1c01f7-e529-4281-b714-53dc8e645803)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Recuperção de Senha 
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/FelipeValeriano21/Autorating-Mobile/assets/101677047/b561f894-0374-481c-b307-0a9f19441724)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Recomendações da IA 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/FelipeValeriano21/Autorating-Mobile/assets/101677047/ae16907d-bd98-47e7-aa5a-b136c07f769d)
